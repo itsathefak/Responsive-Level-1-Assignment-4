@@ -1,2 +1,2 @@
 # Responsive-Level-1-Assignment-4
-This assignment builds upon the previous work by incorporating HTML tables and forms. The focus was on creating a Contact page that includes structured tables and forms for user interaction.
+This assignment builds upon the previous work by incorporating HTML tables and forms. The focus was on creating a Contact page that includes structured tables and forms for user interaction. The page is designed to be fully responsive, ensuring usability across both desktop and mobile views. The layout adjusts to maintain readability and functionality on smaller screens, aligning with the given design requirements.
